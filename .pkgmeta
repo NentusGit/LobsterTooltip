@@ -1,0 +1,9 @@
+package-as: LobsterTooltip
+
+ignore:
+  - .github/*
+  - .gitignore
+  
+manual-changelog:
+    CHANGELOG.md
+    markup-type: markdown
