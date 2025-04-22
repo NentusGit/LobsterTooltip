@@ -1,8 +1,8 @@
-## Interface: 110100
+## Interface: 110105, 110100
 ## Title: |cffee5555Lobster|rTooltip
 ## Notes: Displays the items upgrade path.
 ## Author: Savtus
-## Version: 0.3.0
+## Version: 0.3.1
 ## DefaultState: Enabled
 ## IconTexture: 134048
 ## X-Curse-Project-ID: 1203540
