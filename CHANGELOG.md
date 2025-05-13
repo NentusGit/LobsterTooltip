@@ -2,6 +2,8 @@
 
 - Added support for Turbo Boost
 
-# 0.4.1
+## Previous Updates
+
+### 0.4.1
 
 - Toc bump
