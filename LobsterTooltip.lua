@@ -1,11 +1,11 @@
 -- Item level ranges for the upgrade tracks
 local TRACKS = {
-    explorer = "(597-619)",
-    adventurer = "(610-632)",
-    veteran = "(623-645)",
-    champion = "(636-658)",
-    hero = "(649-665)",
-    myth = "(662-678)",
+    explorer = "(597-625)",
+    adventurer = "(610-638)",
+    veteran = "(623-651)",
+    champion = "(636-664)",
+    hero = "(649-671)",
+    myth = "(662-684)",
     cartel = "(636-678)", -- Dinar track name TBD
 }
 
@@ -13,7 +13,7 @@ local TRACKS = {
 local upgradeStart = string.find(ITEM_UPGRADE_TOOLTIP_FORMAT_STRING, "%%s")
 local upgradePrefix = strsub(ITEM_UPGRADE_TOOLTIP_FORMAT_STRING, 1, upgradeStart - 1)
 
--- Process tooltips
+-- Process item tooltips
 local function ProcessTooltip(tooltip, tooltipData)
     -- Make sure the tooltip is from an Armor/Weapon item
     local _, itemLink = TooltipUtil.GetDisplayedItem(tooltip)

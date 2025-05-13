@@ -2,7 +2,7 @@
 ## Title: |cffee5555Lobster|rTooltip
 ## Notes: Displays an items upgrade path.
 ## Author: Savtus
-## Version: 0.4.1
+## Version: 0.4.2
 ## DefaultState: Enabled
 ## IconTexture: 134048
 ## X-Curse-Project-ID: 1203540
