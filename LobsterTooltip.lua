@@ -5,8 +5,7 @@ local TRACKS = {
     veteran = "(623-651)",
     champion = "(636-664)",
     hero = "(649-671)",
-    myth = "(662-684)",
-    cartel = "(636-678)", -- Dinar track name TBD
+    myth = "(662-684)"
 }
 
 -- Look for 'Upgrade Level:' string
